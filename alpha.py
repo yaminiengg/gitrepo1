@@ -9,4 +9,4 @@ elif(ord(val)>=48 and ord(val)<=57):
            print("Numbers")
 else:
     print("special character")
-#END
+# THE END
